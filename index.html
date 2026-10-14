@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ko" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="송쌤과학 모아컷 — 내 기기 안에서 영상 자르기·이어 붙이기·한글 자막·색감·자동 자막·무음 정리를 하고 MP4로 저장하는 무료 웹 영상 편집기" />
+    <title>모아컷 · 송쌤과학 영상 편집기</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='9' fill='%2325202b'/%3E%3Cpath d='M10 9l14 7-14 7z' fill='%23ff4f8b'/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="fonts/pretendard/pretendard.css" />
+    <script>
+      // 화면 모드를 그리기 전에 적용(깜빡임 방지)
+      try { var t = localStorage.getItem('ss.theme'); if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t } catch (e) {}
+      // 서비스 워커 하나(public/sw.js): 같은 출처 응답에 교차 출처 격리 머리글(GitHub Pages) · 앱 셸 · 글꼴 캐시(오프라인).
+      // 격리가 아직 안 켜졌을 때만 한 번 다시 불러온다(개발 · 미리보기 서버는 머리글을 이미 붙임)
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('sw.js').then(function () {
+          if (window.crossOriginIsolated) return
+          try { if (!sessionStorage.getItem('sw-reloaded')) { sessionStorage.setItem('sw-reloaded', '1'); if (navigator.serviceWorker.controller) location.reload(); else navigator.serviceWorker.addEventListener('controllerchange', function () { location.reload() }) } } catch (e) {}
+        }).catch(function () {})
+      }
+    </script>
+    <script type="module" crossorigin src="./assets/index-DfyUn8qm.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-p5A4Dhus.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript>모아컷은 JavaScript가 켜져 있어야 동작해요.</noscript>
+  </body>
+</html>
