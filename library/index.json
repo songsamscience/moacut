@@ -1,0 +1,4 @@
+{
+  "version": 1,
+  "parts": ["catalog/seed.json", "catalog/images.json", "catalog/sfx.json", "catalog/bgm.json", "catalog/motion.json"]
+}

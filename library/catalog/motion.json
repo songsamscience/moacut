@@ -1,0 +1,923 @@
+{
+ "items": [
+  {
+   "id": "motion-self-arrow-red-right",
+   "kind": "motion",
+   "name": "빨간 화살표 →",
+   "nameEn": "Red arrow right",
+   "desc": "오른쪽을 콕콕 가리키는 빨간 화살표(흰 테두리)",
+   "tags": [
+    "화살표",
+    "오른쪽",
+    "가리키기",
+    "강조",
+    "빨간",
+    "움직이는",
+    "포인터"
+   ],
+   "tagsEn": [
+    "arrow",
+    "right",
+    "pointer",
+    "point",
+    "highlight",
+    "red",
+    "animated"
+   ],
+   "mood": [
+    "밝은"
+   ],
+   "use": [
+    "과학 실험",
+    "발표"
+   ],
+   "template": "arrow",
+   "preset": {
+    "dir": "right",
+    "color": "#ff3b3b",
+    "move": "nudge",
+    "speed": 1.2,
+    "len": 35,
+    "thick": 4,
+    "outline": true
+   },
+   "duration": 4,
+   "author": "송쌤과학(직접 제작)",
+   "source": "src/engine/motion/templates.ts",
+   "license": {
+    "name": "직접 제작(CC0 1.0)",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ko"
+   },
+   "commercial": true,
+   "redistribute": true,
+   "verified": {
+    "date": "2026-10-10",
+    "how": "src/engine/motion 코드로 그림 — 외부 영상 · 그림 없음"
+   },
+   "credit": {
+    "text": "모션그래픽: 송쌤과학 모아컷 자료실(CC0)",
+    "required": false
+   }
+  },
+  {
+   "id": "motion-self-arrow-yellow-down",
+   "kind": "motion",
+   "name": "노란 화살표 ↓",
+   "nameEn": "Yellow arrow down",
+   "desc": "아래를 콕콕 가리키는 노란 화살표 — 실험 기구 · 눈금 짚기",
+   "tags": [
+    "화살표",
+    "아래",
+    "가리키기",
+    "강조",
+    "노란",
+    "눈금",
+    "움직이는"
+   ],
+   "tagsEn": [
+    "arrow",
+    "down",
+    "pointer",
+    "point",
+    "yellow",
+    "animated"
+   ],
+   "mood": [
+    "밝은"
+   ],
+   "use": [
+    "과학 실험",
+    "발표"
+   ],
+   "template": "arrow",
+   "preset": {
+    "dir": "down",
+    "color": "#ffd23f",
+    "move": "nudge",
+    "speed": 1.2,
+    "len": 30,
+    "thick": 4,
+    "outline": true
+   },
+   "duration": 4,
+   "author": "송쌤과학(직접 제작)",
+   "source": "src/engine/motion/templates.ts",
+   "license": {
+    "name": "직접 제작(CC0 1.0)",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ko"
+   },
+   "commercial": true,
+   "redistribute": true,
+   "verified": {
+    "date": "2026-10-10",
+    "how": "src/engine/motion 코드로 그림 — 외부 영상 · 그림 없음"
+   },
+   "credit": {
+    "text": "모션그래픽: 송쌤과학 모아컷 자료실(CC0)",
+    "required": false
+   }
+  },
+  {
+   "id": "motion-self-arrow-blue-grow",
+   "kind": "motion",
+   "name": "파란 화살표 쭉 뻗기 ↗",
+   "nameEn": "Blue growing arrow",
+   "desc": "꼬리에서 머리로 쭉 뻗어 나가는 파란 화살표 — 이동 · 변화 방향",
+   "tags": [
+    "화살표",
+    "방향",
+    "변화",
+    "이동",
+    "파란",
+    "뻗기",
+    "대각선"
+   ],
+   "tagsEn": [
+    "arrow",
+    "direction",
+    "grow",
+    "change",
+    "blue",
+    "diagonal"
+   ],
+   "mood": [
+    "차분한"
+   ],
+   "use": [
+    "과학 실험",
+    "발표"
+   ],
+   "template": "arrow",
+   "preset": {
+    "dir": "up-right",
+    "color": "#3b82f6",
+    "move": "grow",
+    "speed": 0.8,
+    "len": 40,
+    "thick": 3.5,
+    "outline": true
+   },
+   "duration": 4,
+   "author": "송쌤과학(직접 제작)",
+   "source": "src/engine/motion/templates.ts",
+   "license": {
+    "name": "직접 제작(CC0 1.0)",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ko"
+   },
+   "commercial": true,
+   "redistribute": true,
+   "verified": {
+    "date": "2026-10-10",
+    "how": "src/engine/motion 코드로 그림 — 외부 영상 · 그림 없음"
+   },
+   "credit": {
+    "text": "모션그래픽: 송쌤과학 모아컷 자료실(CC0)",
+    "required": false
+   }
+  },
+  {
+   "id": "motion-self-highlight-circle",
+   "kind": "motion",
+   "name": "강조 원",
+   "nameEn": "Highlight circle",
+   "desc": "펜으로 그리듯 동그랗게 둘러 강조(노랑) — 다 그린 뒤 깜빡임",
+   "tags": [
+    "강조",
+    "원",
+    "동그라미",
+    "표시",
+    "주목",
+    "그리기",
+    "노란"
+   ],
+   "tagsEn": [
+    "highlight",
+    "circle",
+    "ring",
+    "focus",
+    "emphasis",
+    "draw"
+   ],
+   "mood": [
+    "밝은"
+   ],
+   "use": [
+    "과학 실험",
+    "발표",
+    "퀴즈"
+   ],
+   "template": "highlight",
+   "preset": {
+    "shape": "circle",
+    "bw": 40,
+    "bh": 28,
+    "line": 1.2,
+    "color": "#ffd23f",
+    "draw": 0.8,
+    "pulse": true
+   },
+   "duration": 4,
+   "author": "송쌤과학(직접 제작)",
+   "source": "src/engine/motion/templates.ts",
+   "license": {
+    "name": "직접 제작(CC0 1.0)",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ko"
+   },
+   "commercial": true,
+   "redistribute": true,
+   "verified": {
+    "date": "2026-10-10",
+    "how": "src/engine/motion 코드로 그림 — 외부 영상 · 그림 없음"
+   },
+   "credit": {
+    "text": "모션그래픽: 송쌤과학 모아컷 자료실(CC0)",
+    "required": false
+   }
+  },
+  {
+   "id": "motion-self-highlight-box",
+   "kind": "motion",
+   "name": "강조 사각형",
+   "nameEn": "Highlight box",
+   "desc": "네모 상자가 그려지며 중요한 부분을 둘러요(빨강)",
+   "tags": [
+    "강조",
+    "사각형",
+    "네모",
+    "상자",
+    "표시",
+    "주목",
+    "빨간"
+   ],
+   "tagsEn": [
+    "highlight",
+    "box",
+    "rectangle",
+    "frame",
+    "focus",
+    "emphasis"
+   ],
+   "mood": [
+    "밝은"
+   ],
+   "use": [
+    "과학 실험",
+    "발표",
+    "퀴즈"
+   ],
+   "template": "highlight",
+   "preset": {
+    "shape": "round",
+    "bw": 50,
+    "bh": 30,
+    "line": 1,
+    "color": "#ff3b3b",
+    "draw": 0.7,
+    "pulse": false
+   },
+   "duration": 4,
+   "author": "송쌤과학(직접 제작)",
+   "source": "src/engine/motion/templates.ts",
+   "license": {
+    "name": "직접 제작(CC0 1.0)",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ko"
+   },
+   "commercial": true,
+   "redistribute": true,
+   "verified": {
+    "date": "2026-10-10",
+    "how": "src/engine/motion 코드로 그림 — 외부 영상 · 그림 없음"
+   },
+   "credit": {
+    "text": "모션그래픽: 송쌤과학 모아컷 자료실(CC0)",
+    "required": false
+   }
+  },
+  {
+   "id": "motion-self-countdown-3",
+   "kind": "motion",
+   "name": "카운트다운 3 · 2 · 1",
+   "nameEn": "Countdown 3-2-1",
+   "desc": "3 · 2 · 1 다음 「시작!」 — 실험 시작 · 발표 전",
+   "tags": [
+    "카운트다운",
+    "숫자",
+    "시작",
+    "준비",
+    "타이머",
+    "321",
+    "초읽기"
+   ],
+   "tagsEn": [
+    "countdown",
+    "timer",
+    "start",
+    "ready",
+    "numbers",
+    "321"
+   ],
+   "mood": [
+    "신나는",
+    "긴장감"
+   ],
+   "use": [
+    "과학 실험",
+    "퀴즈",
+    "학교 행사"
+   ],
+   "template": "countdown",
+   "preset": {
+    "from": 3,
+    "per": 1,
+    "color": "#ffffff",
+    "accent": "#ff5a5f",
+    "disc": true,
+    "end": "시작!"
+   },
+   "duration": 4,
+   "author": "송쌤과학(직접 제작)",
+   "source": "src/engine/motion/templates.ts",
+   "license": {
+    "name": "직접 제작(CC0 1.0)",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ko"
+   },
+   "commercial": true,
+   "redistribute": true,
+   "verified": {
+    "date": "2026-10-10",
+    "how": "src/engine/motion 코드로 그림 — 외부 영상 · 그림 없음"
+   },
+   "credit": {
+    "text": "모션그래픽: 송쌤과학 모아컷 자료실(CC0)",
+    "required": false
+   }
+  },
+  {
+   "id": "motion-self-countdown-10",
+   "kind": "motion",
+   "name": "10초 카운트다운",
+   "nameEn": "10-second countdown",
+   "desc": "10부터 1까지 1초씩 — 퀴즈 생각할 시간",
+   "tags": [
+    "카운트다운",
+    "10초",
+    "타이머",
+    "퀴즈",
+    "생각",
+    "시간",
+    "초읽기"
+   ],
+   "tagsEn": [
+    "countdown",
+    "timer",
+    "10 seconds",
+    "quiz",
+    "thinking time"
+   ],
+   "mood": [
+    "긴장감"
+   ],
+   "use": [
+    "퀴즈",
+    "학교 행사"
+   ],
+   "template": "countdown",
+   "preset": {
+    "from": 10,
+    "per": 1,
+    "color": "#ffffff",
+    "accent": "#3b82f6",
+    "disc": true,
+    "end": "끝!"
+   },
+   "duration": 11,
+   "author": "송쌤과학(직접 제작)",
+   "source": "src/engine/motion/templates.ts",
+   "license": {
+    "name": "직접 제작(CC0 1.0)",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ko"
+   },
+   "commercial": true,
+   "redistribute": true,
+   "verified": {
+    "date": "2026-10-10",
+    "how": "src/engine/motion 코드로 그림 — 외부 영상 · 그림 없음"
+   },
+   "credit": {
+    "text": "모션그래픽: 송쌤과학 모아컷 자료실(CC0)",
+    "required": false
+   }
+  },
+  {
+   "id": "motion-self-nametag",
+   "kind": "motion",
+   "name": "이름표",
+   "nameEn": "Name tag",
+   "desc": "이름 · 모둠명 · 실험 제목이 왼쪽에서 밀려 들어오는 아래 자막",
+   "tags": [
+    "이름표",
+    "이름",
+    "모둠",
+    "자막",
+    "소개",
+    "발표자",
+    "하단"
+   ],
+   "tagsEn": [
+    "name tag",
+    "lower third",
+    "name",
+    "group",
+    "title",
+    "introduce",
+    "presenter"
+   ],
+   "mood": [
+    "차분한"
+   ],
+   "use": [
+    "발표",
+    "과학 실험",
+    "학교 행사"
+   ],
+   "template": "nametag",
+   "preset": {
+    "name": "김과학",
+    "group": "1모둠",
+    "title": "산과 염기 실험",
+    "accent": "#3b82f6",
+    "theme": "dark"
+   },
+   "duration": 5,
+   "author": "송쌤과학(직접 제작)",
+   "source": "src/engine/motion/templates.ts",
+   "license": {
+    "name": "직접 제작(CC0 1.0)",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ko"
+   },
+   "commercial": true,
+   "redistribute": true,
+   "verified": {
+    "date": "2026-10-10",
+    "how": "src/engine/motion 코드로 그림 — 외부 영상 · 그림 없음"
+   },
+   "credit": {
+    "text": "모션그래픽: 송쌤과학 모아컷 자료실(CC0)",
+    "required": false
+   }
+  },
+  {
+   "id": "motion-self-answer-o",
+   "kind": "motion",
+   "name": "정답!",
+   "nameEn": "Correct!",
+   "desc": "커다란 O 와 「정답!」 · 반짝이 · 정답 효과음",
+   "tags": [
+    "정답",
+    "맞았어요",
+    "동그라미",
+    "O",
+    "퀴즈",
+    "딩동댕",
+    "축하"
+   ],
+   "tagsEn": [
+    "correct",
+    "right",
+    "quiz",
+    "o mark",
+    "success",
+    "ding"
+   ],
+   "mood": [
+    "밝은",
+    "신나는"
+   ],
+   "use": [
+    "퀴즈",
+    "발표"
+   ],
+   "template": "answer",
+   "preset": {
+    "mark": "o",
+    "text": "정답!",
+    "color": "#22c55e",
+    "sfx": true
+   },
+   "duration": 2.5,
+   "author": "송쌤과학(직접 제작)",
+   "source": "src/engine/motion/templates.ts",
+   "license": {
+    "name": "직접 제작(CC0 1.0)",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ko"
+   },
+   "commercial": true,
+   "redistribute": true,
+   "verified": {
+    "date": "2026-10-10",
+    "how": "src/engine/motion 코드로 그림 — 외부 영상 · 그림 없음"
+   },
+   "credit": {
+    "text": "모션그래픽: 송쌤과학 모아컷 자료실(CC0)",
+    "required": false
+   }
+  },
+  {
+   "id": "motion-self-answer-x",
+   "kind": "motion",
+   "name": "오답",
+   "nameEn": "Wrong",
+   "desc": "X 표시가 흔들리며 「오답」 · 오답 효과음",
+   "tags": [
+    "오답",
+    "틀렸어요",
+    "엑스",
+    "X",
+    "퀴즈",
+    "땡",
+    "다시"
+   ],
+   "tagsEn": [
+    "wrong",
+    "incorrect",
+    "quiz",
+    "x mark",
+    "fail",
+    "buzzer"
+   ],
+   "mood": [
+    "웃긴"
+   ],
+   "use": [
+    "퀴즈"
+   ],
+   "template": "answer",
+   "preset": {
+    "mark": "x",
+    "text": "오답",
+    "color": "#ef4444",
+    "sfx": true
+   },
+   "duration": 2.5,
+   "author": "송쌤과학(직접 제작)",
+   "source": "src/engine/motion/templates.ts",
+   "license": {
+    "name": "직접 제작(CC0 1.0)",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ko"
+   },
+   "commercial": true,
+   "redistribute": true,
+   "verified": {
+    "date": "2026-10-10",
+    "how": "src/engine/motion 코드로 그림 — 외부 영상 · 그림 없음"
+   },
+   "credit": {
+    "text": "모션그래픽: 송쌤과학 모아컷 자료실(CC0)",
+    "required": false
+   }
+  },
+  {
+   "id": "motion-self-title-fade",
+   "kind": "motion",
+   "name": "제목 페이드",
+   "nameEn": "Title fade in",
+   "desc": "제목 · 부제가 부드럽게 나타나요",
+   "tags": [
+    "제목",
+    "타이틀",
+    "시작",
+    "페이드",
+    "부제",
+    "오프닝",
+    "차분한"
+   ],
+   "tagsEn": [
+    "title",
+    "heading",
+    "fade",
+    "intro",
+    "opening",
+    "subtitle"
+   ],
+   "mood": [
+    "차분한"
+   ],
+   "use": [
+    "과학 실험",
+    "발표",
+    "학교 행사"
+   ],
+   "template": "title",
+   "preset": {
+    "text": "오늘의 실험",
+    "sub": "산성과 염기성 알아보기",
+    "anim": "fade",
+    "color": "#ffffff",
+    "accent": "#ffd23f",
+    "band": false
+   },
+   "duration": 4,
+   "author": "송쌤과학(직접 제작)",
+   "source": "src/engine/motion/templates.ts",
+   "license": {
+    "name": "직접 제작(CC0 1.0)",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ko"
+   },
+   "commercial": true,
+   "redistribute": true,
+   "verified": {
+    "date": "2026-10-10",
+    "how": "src/engine/motion 코드로 그림 — 외부 영상 · 그림 없음"
+   },
+   "credit": {
+    "text": "모션그래픽: 송쌤과학 모아컷 자료실(CC0)",
+    "required": false
+   }
+  },
+  {
+   "id": "motion-self-title-slide",
+   "kind": "motion",
+   "name": "제목 슬라이드",
+   "nameEn": "Title slide in",
+   "desc": "제목은 왼쪽, 부제는 오른쪽에서 미끄러져 들어와요(배경 띠)",
+   "tags": [
+    "제목",
+    "타이틀",
+    "슬라이드",
+    "밀어내기",
+    "부제",
+    "결과",
+    "띠"
+   ],
+   "tagsEn": [
+    "title",
+    "heading",
+    "slide",
+    "intro",
+    "result",
+    "band"
+   ],
+   "mood": [
+    "신나는"
+   ],
+   "use": [
+    "과학 실험",
+    "발표"
+   ],
+   "template": "title",
+   "preset": {
+    "text": "실험 결과",
+    "sub": "우리 모둠이 알아낸 것",
+    "anim": "slide",
+    "color": "#ffffff",
+    "accent": "#3ddc97",
+    "band": true
+   },
+   "duration": 4,
+   "author": "송쌤과학(직접 제작)",
+   "source": "src/engine/motion/templates.ts",
+   "license": {
+    "name": "직접 제작(CC0 1.0)",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ko"
+   },
+   "commercial": true,
+   "redistribute": true,
+   "verified": {
+    "date": "2026-10-10",
+    "how": "src/engine/motion 코드로 그림 — 외부 영상 · 그림 없음"
+   },
+   "credit": {
+    "text": "모션그래픽: 송쌤과학 모아컷 자료실(CC0)",
+    "required": false
+   }
+  },
+  {
+   "id": "motion-self-title-zoom",
+   "kind": "motion",
+   "name": "제목 확대",
+   "nameEn": "Title zoom in",
+   "desc": "제목이 톡 튀어나오듯 커지며 등장",
+   "tags": [
+    "제목",
+    "타이틀",
+    "확대",
+    "줌",
+    "퀴즈",
+    "등장",
+    "신나는"
+   ],
+   "tagsEn": [
+    "title",
+    "heading",
+    "zoom",
+    "pop",
+    "quiz",
+    "intro"
+   ],
+   "mood": [
+    "신나는",
+    "밝은"
+   ],
+   "use": [
+    "퀴즈",
+    "학교 행사",
+    "발표"
+   ],
+   "template": "title",
+   "preset": {
+    "text": "과학 퀴즈!",
+    "sub": "문제를 잘 듣고 맞혀 보세요",
+    "anim": "zoom",
+    "color": "#ffd23f",
+    "accent": "#ff5a5f",
+    "band": false
+   },
+   "duration": 4,
+   "author": "송쌤과학(직접 제작)",
+   "source": "src/engine/motion/templates.ts",
+   "license": {
+    "name": "직접 제작(CC0 1.0)",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ko"
+   },
+   "commercial": true,
+   "redistribute": true,
+   "verified": {
+    "date": "2026-10-10",
+    "how": "src/engine/motion 코드로 그림 — 외부 영상 · 그림 없음"
+   },
+   "credit": {
+    "text": "모션그래픽: 송쌤과학 모아컷 자료실(CC0)",
+    "required": false
+   }
+  },
+  {
+   "id": "motion-self-confetti",
+   "kind": "motion",
+   "name": "색종이",
+   "nameEn": "Confetti",
+   "desc": "화면 위에서 무지개 색종이가 쏟아져요(고정 씨앗)",
+   "tags": [
+    "색종이",
+    "축하",
+    "파티",
+    "꽃가루",
+    "성공",
+    "박수",
+    "신나는"
+   ],
+   "tagsEn": [
+    "confetti",
+    "celebrate",
+    "party",
+    "congrats",
+    "success",
+    "celebration"
+   ],
+   "mood": [
+    "신나는",
+    "밝은"
+   ],
+   "use": [
+    "학교 행사",
+    "퀴즈",
+    "발표"
+   ],
+   "template": "confetti",
+   "preset": {
+    "palette": "rainbow",
+    "count": 120,
+    "life": 3,
+    "mode": "rain",
+    "size": 100
+   },
+   "duration": 3,
+   "author": "송쌤과학(직접 제작)",
+   "source": "src/engine/motion/templates.ts",
+   "license": {
+    "name": "직접 제작(CC0 1.0)",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ko"
+   },
+   "commercial": true,
+   "redistribute": true,
+   "verified": {
+    "date": "2026-10-10",
+    "how": "src/engine/motion 코드로 그림 — 외부 영상 · 그림 없음"
+   },
+   "credit": {
+    "text": "모션그래픽: 송쌤과학 모아컷 자료실(CC0)",
+    "required": false
+   }
+  },
+  {
+   "id": "motion-self-confetti-burst",
+   "kind": "motion",
+   "name": "축하 색종이 터지기",
+   "nameEn": "Confetti burst",
+   "desc": "가운데서 금빛 색종이가 펑 터져요",
+   "tags": [
+    "색종이",
+    "축하",
+    "터지기",
+    "폭죽",
+    "금색",
+    "우승",
+    "시상"
+   ],
+   "tagsEn": [
+    "confetti",
+    "burst",
+    "celebrate",
+    "gold",
+    "winner",
+    "fireworks"
+   ],
+   "mood": [
+    "신나는"
+   ],
+   "use": [
+    "학교 행사",
+    "퀴즈"
+   ],
+   "template": "confetti",
+   "preset": {
+    "palette": "gold",
+    "count": 150,
+    "life": 3,
+    "mode": "burst",
+    "size": 110
+   },
+   "duration": 3,
+   "author": "송쌤과학(직접 제작)",
+   "source": "src/engine/motion/templates.ts",
+   "license": {
+    "name": "직접 제작(CC0 1.0)",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ko"
+   },
+   "commercial": true,
+   "redistribute": true,
+   "verified": {
+    "date": "2026-10-10",
+    "how": "src/engine/motion 코드로 그림 — 외부 영상 · 그림 없음"
+   },
+   "credit": {
+    "text": "모션그래픽: 송쌤과학 모아컷 자료실(CC0)",
+    "required": false
+   }
+  },
+  {
+   "id": "motion-self-confetti-cannon",
+   "kind": "motion",
+   "name": "양쪽 색종이 대포",
+   "nameEn": "Confetti cannons",
+   "desc": "양쪽 아래에서 색종이를 쏘아 올려요",
+   "tags": [
+    "색종이",
+    "축하",
+    "대포",
+    "발사",
+    "파티",
+    "졸업",
+    "행사"
+   ],
+   "tagsEn": [
+    "confetti",
+    "cannon",
+    "celebrate",
+    "party",
+    "graduation",
+    "event"
+   ],
+   "mood": [
+    "신나는"
+   ],
+   "use": [
+    "학교 행사"
+   ],
+   "template": "confetti",
+   "preset": {
+    "palette": "party",
+    "count": 160,
+    "life": 3.5,
+    "mode": "cannon",
+    "size": 100
+   },
+   "duration": 3.5,
+   "author": "송쌤과학(직접 제작)",
+   "source": "src/engine/motion/templates.ts",
+   "license": {
+    "name": "직접 제작(CC0 1.0)",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.ko"
+   },
+   "commercial": true,
+   "redistribute": true,
+   "verified": {
+    "date": "2026-10-10",
+    "how": "src/engine/motion 코드로 그림 — 외부 영상 · 그림 없음"
+   },
+   "credit": {
+    "text": "모션그래픽: 송쌤과학 모아컷 자료실(CC0)",
+    "required": false
+   }
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+카페24 써라운드 (Cafe24 Ssurround) — 라이선스 안내
+
+제작: 카페24(주)
+라이선스: SIL Open Font License 1.1 (공식 zip 안 License-Ssurround.pdf)
+공식 안내: https://img.cafe24.com/csdstatic/freefonts/download/kr/Cafe24Ssurround-v2.0.zip
+
+공식 문구(인용):
+  “카페24(주)에서 제공하는 "카페24 써라운드"는 SIL OPEN FONT LICENSE(Version 1.1)에 따라 사용이 허가됩니다.”
+
+조건: 글꼴 자체 유료 판매 금지. 번들·재배포 시 저작권 안내와 라이선스 전문 동봉(어려우면 출처 표기 권장). 수정본에도 OFL 적용.
+영상 자막 사용: 허용 · 웹 삽입: 허용 · 앱 번들·재배포: 허용
+
+모아컷은 이 글꼴 파일을 저장소에 넣지 않고, 쓸 때 위 공개 CDN 주소(버전 고정)에서 사용자의 브라우저로 내려받아 자막 그리기에만 써요.
+라이선스 원문 파일을 직접 받을 수 있는 고정 주소가 없어 이 안내 파일로 대신해요. 정확한 조건은 공식 안내를 따르세요.
+
+SIL Open Font License 1.1 전문: licenses/fonts/OFL-1.1.txt
