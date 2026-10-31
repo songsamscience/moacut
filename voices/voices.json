@@ -1,0 +1,73 @@
+{
+ "model": "supertonic-3",
+ "rev": "aafc6e32416a594460b32413efc49d7fe4ce6d46",
+ "text": "여러분, 오늘은 우리 주변에서 쉽게 발견할 수 있는 흥미로운 현상을 함께 살펴보겠습니다.",
+ "seed": 7,
+ "steps": 8,
+ "trim": {
+  "lead": 0.05,
+  "trail": 0.1
+ },
+ "voices": {
+  "ko-m1": {
+   "dur": 6.62,
+   "bytes": 53611,
+   "pcm16_sha256": "f30798c56a0c537c704d55bb7cbd997d5fbefff8a8292859f45798a31601e2c8"
+  },
+  "ko-m2": {
+   "dur": 6.29,
+   "bytes": 50895,
+   "pcm16_sha256": "6306581fe49923ed193e1179a02e65cb67526ccc3e262a6f6eb1e7ec62a5af3c"
+  },
+  "ko-m3": {
+   "dur": 6.25,
+   "bytes": 50686,
+   "pcm16_sha256": "3ab78ea25e54bc669b55b4720d761534a743944d79d614d13d4ff2fbe63eb543"
+  },
+  "ko-m4": {
+   "dur": 5.83,
+   "bytes": 47342,
+   "pcm16_sha256": "0de34e675ac895f961431e16b34811e82acc8a98061b651194967d6846efb631"
+  },
+  "ko-m5": {
+   "dur": 6.9,
+   "bytes": 55910,
+   "pcm16_sha256": "12f95eeaf3d28c986885ef468c7a61617de0df03886b92c128184c1f2c43da0f"
+  },
+  "ko-m6": {
+   "dur": 5.71,
+   "bytes": 46297,
+   "pcm16_sha256": "20ba3a60cc8c0caede524045f72ac645793575ae64736fd3fdc8b77933483ce2"
+  },
+  "ko-f1": {
+   "dur": 6.72,
+   "bytes": 54447,
+   "pcm16_sha256": "2843ce2c4890eb08020cbf251d3bffd907ff0639ddd4b1bc30f1cfe1baf1a8ef"
+  },
+  "ko-f2": {
+   "dur": 6.19,
+   "bytes": 50059,
+   "pcm16_sha256": "0d07f594c98269b81f287c60437366104689dcc74243e8533c27af9333a5251d"
+  },
+  "ko-f3": {
+   "dur": 6.49,
+   "bytes": 52566,
+   "pcm16_sha256": "f0a7d6fffefd90a8081688b698b68877ac96dc86c9ed69feebbd7ae131344fd3"
+  },
+  "ko-f4": {
+   "dur": 6.12,
+   "bytes": 49641,
+   "pcm16_sha256": "0895eed11f6185e75bf40de1c620482a8f15cd3f99917ac14e8470ed4ebf533f"
+  },
+  "ko-f5": {
+   "dur": 7.46,
+   "bytes": 60299,
+   "pcm16_sha256": "5cc10e864ee0278ec609b59f10be2a2e09b58dcfcc06c0bf197205bcfbd7a552"
+  },
+  "ko-f6": {
+   "dur": 6.03,
+   "bytes": 48805,
+   "pcm16_sha256": "6441f3868d4e3e80ff9731830c21fd0ef1fb8000620315152f489f4b9bc533a8"
+  }
+ }
+}

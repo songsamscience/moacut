@@ -1,0 +1,17 @@
+G마켓 산스 (Gmarket Sans) — 라이선스 안내
+
+제작: G마켓(eBay Korea)
+라이선스: SIL Open Font License 1.1
+공식 안내: https://corp.gmarket.com/fonts/
+저작권 표기: Copyright 2019 eBay Korea, RFN Gmarket Sans Font (글꼴 파일 name 13 항목 문구)
+
+공식 문구(인용):
+  “Gmarket Sans는 'SIL Open Font License'에 따라 개인 또는 기업이 영리적, 비영리적 목적으로 자유롭게 사용할 수 있습니다.”
+
+조건: OFL 전문 동봉(배포 zip에 없음. 폰트 name 13 항목의 'Copyright 2019 eBay Korea, RFN Gmarket Sans Font' 문구로 직접 작성), 단독 판매 금지. 예약 이름이 있어 woff2 변환·서브셋본을 저장소에 넣으면 이름 변경이 필요함, 원본 TTF를 그대로 쓰면 무관
+영상 자막 사용: 허용 · 웹 삽입: 허용 · 앱 번들·재배포: 허용
+
+모아컷은 이 글꼴 파일을 저장소에 넣지 않고, 쓸 때 위 공개 CDN 주소(버전 고정)에서 사용자의 브라우저로 내려받아 자막 그리기에만 써요.
+라이선스 원문 파일을 직접 받을 수 있는 고정 주소가 없어 이 안내 파일로 대신해요. 정확한 조건은 공식 안내를 따르세요.
+
+SIL Open Font License 1.1 전문: licenses/fonts/OFL-1.1.txt
